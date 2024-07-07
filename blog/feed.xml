@@ -8,8 +8,8 @@
   <item>
     <title>Hey, I made an RSS feed, pretty cool, right?</title>
     <link>https://tbhtyson.github.io/blog</link>
-    <description>If it's not cool, I get why</description>
-    <p>This took a long time, so please use it.</p>
+    <description><![CDATA[Hey an rss feed]]></description>
+    <p>Do you like it?</p>
   </item>
 </channel>
 
