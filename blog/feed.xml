@@ -1,0 +1,16 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Tbhtyson&#8217;s Blog!</title>
+  <link>https://tbhtyson.github.com/blog/</link>
+  <description>Whatever nonsensical shenanigans I'm up to</description>
+  <item>
+    <title>Hey, I made an RSS feed, pretty cool, right?</title>
+    <link>https://tbhtyson.github.io/blog</link>
+    <description>If it's not cool, I get why</description>
+    <p>This took a long time, so please use it.</p>
+  </item>
+</channel>
+
+</rss> 
