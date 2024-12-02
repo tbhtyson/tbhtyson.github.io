@@ -2,27 +2,54 @@
 <rss version="2.0">
 
 <channel>
-  <title>Bob Blog</title>
-  <link>https://tbhtyson.github.io/blog/</link>
-  <description>A blog for random nonsense I like</description>
-  <item>
-    <title>I made an RSS feed</title>
-    <link>https://tbhtyson.github.io/blog/1/</link>
-    <description>
-      <![CDATA[
-        <p>
-          RSS is an old technology used by smart people, old people, and a lot of websites.
-          Smart people use it because the web is too complex.
-          Old people use it because they are stuck in the past.
-          I don't know why websites use it, other than to please the smart and old people.
-          I use it for the same reason as smart people.
+ 	<title>Bob Blog</title>
+	<link>https://tbhtyson.github.io/blog/</link>
+	<description>A blog for random nonsense I like</description>
+	<item>
+    	<title>I made an RSS feed</title>
+    	<link>https://tbhtyson.github.io/blog/1/</link>
+    	<description>
+      		<![CDATA[
+        		<p>
+          		RSS is an old technology used by smart people, old people, and a lot of websites.
+          		Smart people use it because the web is too complex.
+          		Old people use it because they are stuck in the past.
+          		I don't know why websites use it, other than to please the smart and old people.
+          		I use it for the same reason as smart people.
 
-          RSS stands for really simple syndication. It is used for gathering stuff into one place instead of 50 different websites. Instead of having to go to different websites to get news, you can just go to the terminal, open up newsboat, and look at all the news in one spot.
-          "What is newsboat", you may ask. Newsboat is a terminal application similar to mutt, but instead of email, it has rss feeds.
-          Now just be patient as I configure mutt.
-        </p>
-      ]]>
-    </description>
+          		RSS stands for really simple syndication. It is used for gathering stuff into one place instead of 50 different websites. Instead of having to go to different websites to get news, you can just go to the terminal, open up newsboat, and look at all the news in one spot.
+          		"What is newsboat", you may ask. Newsboat is a terminal application similar to mutt, but instead of email, it has rss feeds.
+          		Now just be patient as I configure mutt.
+        		</p>
+      		]]>
+    	</description>
+  </item>
+  <item>
+  	<title>A short essay</title>
+  	<link>https://tbhtyson.github.io/blog/2</link>
+  	<description>
+  		<![CDATA[
+  			<p>
+  				Today I made an essay about rainforests:
+  			</p>
+  			<p>.</p>
+  			<p>
+  				It is very important to preserve the rainforests because they take in almost 2 billion tons of carbon dioxide a year and are home to over 3 million species.
+  			</p>
+  			<p>.</p>
+  			<p>
+  				Carbon dioxide is a greenhouse gas, which means it traps heat, causing the planet to warm up. Warmer air melts glaciers, causing sea levels to rise, potentially destroying buildings built on the coast.
+  			</p>
+  			<p>.</p>
+  			<p>
+  				If tons of species die from habitat loss, we may lose the banana plant. A lot of people enjoy eating the yellow fruit, so a lot of people wouldn't be happy.
+  			</p>
+  			<p>.</p>
+  			<p>
+  				That's why it's important to preserve the rainforests.
+  			</p>
+  		]]>
+  	</description>
   </item>
 </channel>
 
